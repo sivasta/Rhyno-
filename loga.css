@@ -1,0 +1,111 @@
+
+body {
+  font-family: "Lato";
+  transition: background-color .5s;
+  background-color: #FAFAFA;
+  padding: 0px;
+  margin: 0px;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: index 2000;
+
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #252525;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+.sidenav a:hover, .dropdown-btn:hover , .closebtn{
+color: #ffffff;
+}
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #EDEDED;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #ffffff;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 14px;
+ 
+  right: -200px;
+  font-size: 36px;
+  margin-left: 50px;
+  
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+.logo{
+    position: relative;
+    top: 40px; 
+    right:40px;
+    z-index: index 2000;
+}
+
+.sidenav a:hover, .dropdown-btn {
+     color: #FAFAFA;
+}
+.sidenav a, .dropdown-btn {
+padding: 6px 8px 6px 16px;
+text-decoration: none;
+font-size: 20px;
+color: #dcd3d3;
+display: block;
+border: none;
+background: none;
+width: 100%;
+text-align: left;
+cursor: pointer;
+outline: none;
+}
+.active {
+background-color: rgb(22, 23, 22);
+color: rgb(255, 255, 255);
+}
+.fa-caret-down {
+float: right;
+padding-right: 8px;
+}
+.dropdown-container {
+display: none;
+background-color: #262626;
+padding-left: 8px;
+}
+.closebtn{
+background-color: white;
+color: white;
+text-align: right;
+}
+main {
+text-align: center;
+}
+
+#changing-word {
+font-size: 20px;
+font-weight: bold;
+color: #333;
+}
+p{
+color: black;
+font-size: 20px;
+}

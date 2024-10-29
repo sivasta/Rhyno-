@@ -1,0 +1,150 @@
+
+  
+  .Homep{
+    background-color: aqua;
+
+
+  }
+  body{
+    background-color: rgb(211, 211, 211);
+  }
+  .Homeb{
+    padding-left: 40px;
+    padding-right: 30px;
+  }
+  .Aboutbb{
+    padding-left: 61px;
+    padding-right: 69px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 24px;
+  text-align: center;
+  }
+  .Aboutb{
+    padding-left: 40px;
+    padding-right: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  }
+  .Productd{
+    text-align: center;
+    display: block;
+    background-color: rgb(225, 235, 233);
+    color:#f9fdfd;
+    margin-left: 550px;
+    margin-right: 480px;
+    padding-top: 30px;
+    height: 380px;
+    font-size: 30px;
+  }
+  .Contactd{
+    padding-top: 50px;
+    background-color: white;
+    color: #09090a;
+    height: 500px;
+  }
+  .Contactdp{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px;
+    text-align: center;
+  }
+  .Contactdh1{
+    text-align: center;
+    font-size: 60px;
+  }
+  .buttonse{
+   align-items: center;
+   justify-content: center;
+   
+   display: flex;
+  
+  }
+  .SE03liteb{
+    padding-left: 40px;
+    padding-right: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 25px;
+  }
+  .buttonse1 {
+    color: rgb(247, 245, 245);
+    background-color: rgb(240, 20, 12);
+    border-radius: 5px;
+    padding-right: 5px;
+    border-color: red;
+  }
+  .buttonse2 {
+    color: rgb(248, 248, 250);
+    background-color: rgb(10, 22, 238);
+    border-radius: 5px;
+    padding-right: 5px;
+    border-color: blue;
+
+
+  }
+   .buttonse3{
+    color: rgb(240, 243, 241);
+    background-color: rgb(6,206,89);
+    border-radius: 5px;
+    border-color:rgb(6,206,89);
+
+   }
+    .slitebuy {
+    background-color: #080808;
+    color: #e4e5e6;
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom:15px ;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+
+
+   }
+   .hom{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+   }
+   .text{
+    text-align: center;
+    font-size: 25px;
+   }
+   .homebt{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+   }
+  
+   .NavDropdown{
+    text-align: center;
+    display: block;
+    background-color: rgb(225, 235, 233);
+    color:#f9fdfd;
+    margin-left: 550px;
+    margin-right: 480px;
+    padding-top: 30px;
+    height: 380px;
+    font-size: 30px;
+   }
+   .Produ{
+    color: #f9fdfd;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    padding-bottom: 0;
+   }
+   .rental{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    padding-left: 60px;
+    padding-right: 70px;
+    align-items: center;
+    }
+    .ren{
+      text-align: center;
+    }
+    .com{
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: 20px;
+
+    }

@@ -1,0 +1,24 @@
+/* Footer.css */
+.footer {
+    background-color: #1b1b1b; /* or whatever color you prefer */
+    position: relative; /* or fixed depending on your layout */
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.footer-links a {
+        color: aliceblue; /* or your preferred link color */
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
